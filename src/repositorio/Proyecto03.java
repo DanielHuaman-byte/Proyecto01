@@ -16,7 +16,7 @@ public class Proyecto03 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("hola mundo 2.0xdxdxd");
+        System.out.println("hola mundo 2.0xdxdx d cristian");
         
         int n1 = 12 , n2 = 90 , mayor = 0;
         if(n1>n2)
